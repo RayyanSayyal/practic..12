@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+    /* text-align: center; */
+}
+h1{
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(253, 11, 180);
+    background-color: rgb(225, 228, 206);
+    font-family: rayyan;
+    text-align: center;
+   
+}
+
+@font-face{
+    font-family: rayyan;
+    src: url(./Kanit-SemiBold.ttf);
+}
+/* .rt{
+    text-align:left;
+} */
+.te{
+    text-align: center;
+    font-family: rayyan;
+    font-size: 20px;
+
+}
+/* .te:hover{
+    color: blue;
+} */
